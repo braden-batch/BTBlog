@@ -1,5 +1,5 @@
 ---
-title: "BTBlog"
+title: "Braden T. Batch"
 listing:
   contents: posts
   sort: "date desc"
