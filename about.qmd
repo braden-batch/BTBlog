@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Braden T. Batch"
 image: profile.jpg
 about:
   template: jolla
@@ -13,7 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+About this blog\
+\
+This blog is a place for me to explore topics in Canadian and US data.

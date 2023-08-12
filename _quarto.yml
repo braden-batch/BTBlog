@@ -2,17 +2,16 @@ project:
   type: website
 
 website:
-  title: "BTBlog"
+  title: "B. T. Batch"
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      
+  
+    
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
 
 editor: visual
